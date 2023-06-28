@@ -13,16 +13,6 @@ Pwskills Pre-Placement Training: Boost your skills and confidence with comprehen
 
 
 <html>
-  <head>
-    <style>
-  table {
-    width: 100%;
-  }
-  td {
-    width: 50%;
-  }
-</style>
-  </head>
   <body>
     <br>
     <h3>Class Timetable - PW Skills</h3>
