@@ -9,7 +9,10 @@ Pwskills Pre-Placement Training: Boost your skills and confidence with comprehen
 |[Assignment_004](https://github.com/navneetguptacse/Assignments-Training/blob/main/Assignment_004.ipynb)| 29 June 2023|29 June 2023|
 |[Assignment_005](https://github.com/navneetguptacse/Assignments-Training/blob/main/Assignment_005.ipynb)| 30 June 2023|30 June 2023|
 |[Assignment_006](https://github.com/navneetguptacse/Assignments-Training/blob/main/Assignment_006.ipynb)| 01 July 2023|01 July 2023|
-|[Assignment_007](https://github.com/navneetguptacse/Assignments-Training/blob/main/Assignment_007.ipynb)| Unavailable|03 July 2023|
+|[Assignment_007](https://github.com/navneetguptacse/Assignments-Training/blob/main/Assignment_007.ipynb)| 03 July 2023|03 July 2023|
+|[Assignment_008](https://github.com/navneetguptacse/Assignments-Training/blob/main/Assignment_008.ipynb)| 04 July 2023|04 July 2023|
+|[Assignment_009](https://github.com/navneetguptacse/Assignments-Training/blob/main/Assignment_009.ipynb)| Unavailable|05 July 2023|
+
 
 
 ### Class Timetable - Pw Skills
