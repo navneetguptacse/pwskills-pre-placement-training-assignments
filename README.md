@@ -12,7 +12,7 @@ Pwskills Pre-Placement Training: Boost your skills and confidence with comprehen
 |[Assignment_007](https://github.com/navneetguptacse/Assignments-Training/blob/main/Assignment_007.ipynb)| 03 July 2023|03 July 2023|
 |[Assignment_008](https://github.com/navneetguptacse/Assignments-Training/blob/main/Assignment_008.ipynb)| 04 July 2023|04 July 2023|
 |[Assignment_009](https://github.com/navneetguptacse/Assignments-Training/blob/main/Assignment_009.ipynb)| 04 July 2023|05 July 2023|
-|[Assignment_010](https://github.com/navneetguptacse/Assignments-Training/blob/main/Assignment_010.ipynb)| 15 July 2023|06 July 2023|
+|[Assignment_010](https://github.com/navneetguptacse/Assignments-Training/blob/main/Assignment_010.ipynb)| 06 July 2023|06 July 2023|
 |[Assignment_011](https://github.com/navneetguptacse/Assignments-Training/blob/main/Assignment_011.ipynb)| 15 July 2023|15 July 2023|
 |[Assignment_012](https://github.com/navneetguptacse/Assignments-Training/blob/main/Assignment_012.ipynb)| 15 July 2023|15 July 2023|
 |[Assignment_013](https://github.com/navneetguptacse/Assignments-Training/blob/main/Assignment_013.ipynb)| 15 July 2023|15 July 2023|
